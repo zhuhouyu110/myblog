@@ -1,0 +1,84 @@
+Log created: 2020-02-25 14:40:42
+Type: backup
+[2020-02-25 14:40:42][notice]Start backing up.
+[2020-02-25 14:40:42][notice]server info fcgi:Off max execution time: 900 wp version:5.3.2 php version:7.3.2 db version:5.1.63 php ini:safe_mode: memory_limit:256M memory_get_usage:39.82 MB memory_get_peak_usage:40.44 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2020-02-25 14:40:42][notice]Prepare to backup backup_db files.
+[2020-02-25 14:40:42][notice]Start exporting database.
+[2020-02-25 14:40:42][notice]max_allowed_packet less than 32M :1.00 MB
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_commentmeta
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_comments
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_links
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_options
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_postmeta
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_posts
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_term_relationships
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_term_taxonomy
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_termmeta
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_terms
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_usermeta
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_users
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_wc_avatars_cache
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_wc_comments_subscription
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_wc_follow_users
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_wc_phrases
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_wc_users_voted
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_xh_sessions
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_xh_social_channel_qq
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_xh_social_channel_wechat
+[2020-02-25 14:40:42][notice]Preparing to dump table wp_xh_social_channel_weibo
+[2020-02-25 14:40:42][notice]Exporting database finished.
+[2020-02-25 14:40:42][notice]Start compressing backup_db
+[2020-02-25 14:40:42][notice]Prepare to zip files. file: zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_db.zip
+[2020-02-25 14:40:42][notice]Adding zip files completed.zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_db.zip, filesize: 379.99 KB
+[2020-02-25 14:40:42][notice]Compressing backup_db completed
+[2020-02-25 14:40:42][notice]Backing up backup_db completed.
+[2020-02-25 14:40:42][notice]Prepare to backup backup_themes files.
+[2020-02-25 14:40:42][notice]File number: 212
+[2020-02-25 14:40:42][notice]Start compressing backup_themes
+[2020-02-25 14:40:42][notice]Prepare to zip files. file: zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_themes.zip
+[2020-02-25 14:40:42][notice]Adding zip files completed.zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_themes.zip, filesize: 1.90 MB
+[2020-02-25 14:40:42][notice]Compressing backup_themes completed
+[2020-02-25 14:40:42][notice]Backing up backup_themes completed.
+[2020-02-25 14:40:42][notice]Prepare to backup backup_plugin files.
+[2020-02-25 14:40:42][notice]File number: 2157
+[2020-02-25 14:40:42][notice]Start compressing backup_plugin
+[2020-02-25 14:40:43][notice]Prepare to zip files. file: zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_plugin.zip
+[2020-02-25 14:40:43][notice]Adding zip files completed.zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_plugin.zip, filesize: 40.93 MB
+[2020-02-25 14:40:43][notice]Compressing backup_plugin completed
+[2020-02-25 14:40:43][notice]Backing up backup_plugin completed.
+[2020-02-25 14:40:43][notice]Prepare to backup backup_uploads files.
+[2020-02-25 14:40:43][notice]File number: 64
+[2020-02-25 14:40:43][notice]Start compressing backup_uploads
+[2020-02-25 14:40:43][notice]Prepare to zip files. file: zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_uploads.zip
+[2020-02-25 14:40:43][notice]Adding zip files completed.zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_uploads.zip, filesize: 2.65 MB
+[2020-02-25 14:40:43][notice]Compressing backup_uploads completed
+[2020-02-25 14:40:43][notice]Backing up backup_uploads completed.
+[2020-02-25 14:40:43][notice]Prepare to backup backup_content files.
+[2020-02-25 14:40:43][notice]File number: 44
+[2020-02-25 14:40:43][notice]Start compressing backup_content
+[2020-02-25 14:40:43][notice]Prepare to zip files. file: zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_content.zip
+[2020-02-25 14:40:43][notice]Adding zip files completed.zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_content.zip, filesize: 2.76 MB
+[2020-02-25 14:40:43][notice]Compressing backup_content completed
+[2020-02-25 14:40:43][notice]Backing up backup_content completed.
+[2020-02-25 14:40:43][notice]Prepare to backup backup_core files.
+[2020-02-25 14:40:43][notice]File number: 1649
+[2020-02-25 14:40:43][notice]Start compressing backup_core
+[2020-02-25 14:40:43][notice]Prepare to zip files. file: zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_core.zip
+[2020-02-25 14:40:44][notice]Adding zip files completed.zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_core.zip, filesize: 38.07 MB
+[2020-02-25 14:40:44][notice]Compressing backup_core completed
+[2020-02-25 14:40:44][notice]Backing up backup_core completed.
+[2020-02-25 14:40:44][notice]Prepare to backup backup_merge files.
+[2020-02-25 14:40:44][notice]File number: 6
+[2020-02-25 14:40:44][notice]Start compressing backup_merge
+[2020-02-25 14:40:44][notice]Prepare to zip files. file: zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_all.zip
+[2020-02-25 14:40:48][notice]Adding zip files completed.zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_all.zip, filesize: 30.17 MB
+[2020-02-25 14:40:48][notice]Cleaned up file, filename: /www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_plugin.zip
+[2020-02-25 14:40:48][notice]Cleaned up file, filename: /www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_core.zip
+[2020-02-25 14:40:48][notice]Cleaned up file, filename: /www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_content.zip
+[2020-02-25 14:40:48][notice]Cleaned up file, filename: /www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_uploads.zip
+[2020-02-25 14:40:48][notice]Cleaned up file, filename: /www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_themes.zip
+[2020-02-25 14:40:48][notice]Cleaned up file, filename: /www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e5531ea36f99_2020-02-25-14-40_backup_db.zip
+[2020-02-25 14:40:48][notice]Compressing backup_merge completed
+[2020-02-25 14:40:48][notice]Backing up backup_merge completed.
+[2020-02-25 14:40:48][notice]Backup completed.
+[2020-02-25 14:40:48][notice]Backup succeeded.

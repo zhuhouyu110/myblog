@@ -1,0 +1,4 @@
+<form method="get" class="search-form" action="<?php echo esc_url( home_url('index.php') ); ?>">
+	<input class="search-text" name="s" autocomplete="off" placeholder="<?php echo ( Bing_mpanel( 'recommend_search' ) && Bing_mpanel( 'recommend_search_content' ) ) ? ( esc_attr( Bing_mpanel( 'recommend_search_content' ) ) . '" data-recommend-search="' . esc_attr( Bing_mpanel( 'recommend_search_content' ) ) . '"' ) : ( esc_attr__( '输入关键词搜索...', 'Bing' ) . '" required="required"' ); ?> type="text" value="<?php echo get_search_query(); ?>" />
+	<button class="search-submit" alt="<?php esc_attr_e( '搜索', 'Bing' ); ?>" type="submit"><?php _e( '搜索', 'Bing' ); ?></button>
+</form>

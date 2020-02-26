@@ -1,0 +1,91 @@
+Log created: 2020-02-23 03:48:15
+Type: restore
+[2020-02-23 03:48:15][notice]init restore data
+[2020-02-23 03:48:15][notice]Start restoring zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_all.zip
+[2020-02-23 03:48:15][notice]extract root:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/
+[2020-02-23 03:48:15][notice]start extract file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_all.zip
+[2020-02-23 03:48:15][notice]extract finished file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_all.zip
+[2020-02-23 03:48:15][notice]Finished restoring zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_all.zip
+[2020-02-23 03:48:16][notice]Start restoring zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_core.zip
+[2020-02-23 03:48:16][notice]restore from files:["\/www\/web\/zhuhouyu_xyz\/public_html\/wp-content\/wpvividbackups\/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_core.zip"]
+[2020-02-23 03:48:16][notice]start extract file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_core.zip
+[2020-02-23 03:48:17][notice]extract finished file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_core.zip
+[2020-02-23 03:48:17][notice]Finished restoring zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_core.zip
+[2020-02-23 03:48:18][notice]Start restoring zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_plugin.zip
+[2020-02-23 03:48:18][notice]restore from files:["\/www\/web\/zhuhouyu_xyz\/public_html\/wp-content\/wpvividbackups\/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_plugin.zip"]
+[2020-02-23 03:48:18][notice]start extract file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_plugin.zip
+[2020-02-23 03:48:18][notice]extract finished file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_plugin.zip
+[2020-02-23 03:48:18][notice]Finished restoring zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_plugin.zip
+[2020-02-23 03:48:19][notice]Start restoring zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_content.zip
+[2020-02-23 03:48:19][notice]restore from files:["\/www\/web\/zhuhouyu_xyz\/public_html\/wp-content\/wpvividbackups\/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_content.zip"]
+[2020-02-23 03:48:19][notice]start extract file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_content.zip
+[2020-02-23 03:48:19][notice]extract finished file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_content.zip
+[2020-02-23 03:48:19][notice]Finished restoring zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_content.zip
+[2020-02-23 03:48:20][notice]Start restoring zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_themes.zip
+[2020-02-23 03:48:20][notice]restore from files:["\/www\/web\/zhuhouyu_xyz\/public_html\/wp-content\/wpvividbackups\/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_themes.zip"]
+[2020-02-23 03:48:20][notice]start extract file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_themes.zip
+[2020-02-23 03:48:20][notice]extract finished file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_themes.zip
+[2020-02-23 03:48:20][notice]Finished restoring zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_themes.zip
+[2020-02-23 03:48:22][notice]Start restoring zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_uploads.zip
+[2020-02-23 03:48:22][notice]restore from files:["\/www\/web\/zhuhouyu_xyz\/public_html\/wp-content\/wpvividbackups\/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_uploads.zip"]
+[2020-02-23 03:48:22][notice]start extract file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_uploads.zip
+[2020-02-23 03:48:22][notice]extract finished file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_uploads.zip
+[2020-02-23 03:48:22][notice]Finished restoring zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_uploads.zip
+[2020-02-23 03:48:23][notice]Start restoring zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_db.zip
+[2020-02-23 03:48:23][notice]start extract file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_db.zip
+[2020-02-23 03:48:23][notice]extract finished file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_db.zip
+[2020-02-23 03:48:23][notice]sql file: zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_db.sql
+[2020-02-23 03:48:23][Warning]wpdb
+[2020-02-23 03:48:23][notice]The test to create table succeeds.
+[2020-02-23 03:48:23][notice]The test to insert into table succeeds.
+[2020-02-23 03:48:23][notice]The test to drop table succeeds.
+[2020-02-23 03:48:23][notice]get max_allowed_packet wpdb 
+[2020-02-23 03:48:23][notice]max_allowed_packet less than 32M :1.00 MB
+[2020-02-23 03:48:23][notice]get sql_mode failed
+[2020-02-23 03:48:23][notice]Start import sql file.
+[2020-02-23 03:48:23][notice]old site url:http://zhuhouyu.xyz
+[2020-02-23 03:48:23][notice]old home url:http://zhuhouyu.xyz
+[2020-02-23 03:48:23][notice]old content url:http://zhuhouyu.xyz/wp-content
+[2020-02-23 03:48:23][notice]old upload url:http://zhuhouyu.xyz/wp-content/uploads
+[2020-02-23 03:48:23][notice]old site prefix:wp_
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_commentmeta
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_comments
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_links
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_options
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_postmeta
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_posts
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_term_relationships
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_term_taxonomy
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_termmeta
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_terms
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_usermeta
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_users
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_xh_sessions
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_xh_social_channel_qq
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_xh_social_channel_wechat
+[2020-02-23 03:48:23][notice]Drop table if exist
+[2020-02-23 03:48:23][notice]Create table wp_xh_social_channel_weibo
+[2020-02-23 03:48:23][notice]Finished restoring zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_db.zip
+[2020-02-23 03:48:24][notice]Restore task completed.
+[2020-02-23 03:48:26][notice]disable maintenance mode
+[2020-02-23 03:48:26][notice]clean file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_core.zip
+[2020-02-23 03:48:26][notice]clean file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_plugin.zip
+[2020-02-23 03:48:26][notice]clean file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_content.zip
+[2020-02-23 03:48:26][notice]clean file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_themes.zip
+[2020-02-23 03:48:26][notice]clean file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_uploads.zip
+[2020-02-23 03:48:26][notice]clean file:/www/web/zhuhouyu_xyz/public_html/wp-content/wpvividbackups/zhuhouyu.xyz_wpvivid-5e51016bec32e_2020-02-22-10-24_backup_db.zip
